@@ -1,0 +1,13 @@
+int button_state[4];
+int number_of_buttons = 4;
+int button_pin[4] = {1, 2, 3, 4};
+int number_of_led_pins = 4;
+int led_pin[4] = {5, 6, 7, 8};
+int number_of_leds_in_button1 = 2;
+int leds_button1[2] = {5, 6};
+int number_of_leds_in_button2 = 1;
+int leds_button2[1] = {6};
+int number_of_leds_in_button3 = 2;
+int leds_button3[2] = {7, 8};
+int number_of_leds_in_button4 = 4;
+int leds_button4[4] = {5, 6, 7, 8};
